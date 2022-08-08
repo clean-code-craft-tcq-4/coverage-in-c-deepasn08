@@ -1,6 +1,7 @@
 #pragma once
 #include <stdio.h>
 
+#define DEFAULT_UPPERLIMIT 0
 #define COOLING_LOWLIMIT 0
 #define PASSIVECOOLING_UPPERLIMIT  35
 #define ACTIVECOOLING_UPPERLIMIT 45
